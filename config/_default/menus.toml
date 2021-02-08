@@ -1,0 +1,59 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+#[[main]]
+#  name = "Home"
+#  url = "/"
+#  weight = 10
+
+[[main]]
+  name = "Forecasts"
+  url = "forecasts"
+  weight = 10
+
+[[main]]
+  name = "Visualisation"
+  url = "visualisation"
+  weight = 10
+  parent = "Forecasts"
+
+[[main]]
+  name = "Reports"
+  url = "reports"
+  weight = 20
+  parent = "Forecasts"
+
+[[main]]
+  name = "Data"
+  url = "https://github.com/epiforecasts/covid19-forecast-hub-europe"
+  weight = 30
+  parent = "Forecasts"
+
+[[main]]
+  name = "Community"
+  url = "community"
+  weight = 20
+
+[[main]]
+  name = "How to join"
+  url = "how-to-join"
+  weight = 10
+  parent = "Community"
+
+[[main]]
+  name = "Submission instructions"
+  url = "https://github.com/epiforecasts/covid19-forecast-hub-europe/wiki"
+  weight = 20
+  parent = "Community"
+
+[[main]]
+  name = "About"
+  url = "about"
+  weight = 30
+
+[[main]]
+  name = "Contact"
+  url = "contact"
+  weight = 40

@@ -1,0 +1,19 @@
+<script>
+  function resizeIframe(obj) {
+    obj.style.height =  1.05*obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
+
+<style>
+  .container {
+    max-width: none;
+  }
+
+  
+</style>
+
+<iframe width="100%" height="1000" name="iframe" src="{{ index .Params 0 }}"
+  frameborder="0"
+  scrolling="no"
+  onload="resizeIframe(iframe)">
+</this>
