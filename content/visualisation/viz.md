@@ -3,6 +3,6 @@ widget: blank
 columns: 1
 headless: true
 ---
-Coming soon - the frame below is an example of the future design based on the German/Polish forecast hub.
+The European forecast hub has not yet launched. The graphics shown below are an example of what the future visulaisations of forecasts will look like.
 
-{{< iframe "https://kitmetricslab.github.io/forecasthub/forecast" >}}
+{{< iframe "https://signalerki.github.io/forecast-europe/" >}}
