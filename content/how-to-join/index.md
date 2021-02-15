@@ -1,1 +1,1 @@
-Coming soon.
+Teams from anywhere in the world are invited to submit forecasts once a week for one or more of the countries. Take a look at the [submission instructions](https://github.com/epiforecasts/covid19-forecast-hub-europe/wiki) and [get in touch](/contact) with any questions.

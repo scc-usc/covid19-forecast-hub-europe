@@ -1,1 +1,5 @@
-Coming soon.
+The European Forecast hub is run in collaboration between the [Epiforecasts team](http://epiforecasts.io/covid), which is part of the [Centre for Mathematical Modelling of Infections Diseases](http://cmmid.github.io/topics/covid19) at the [London School of Hygiene & Tropcial Medicine](http://www.lshtm.ac.uk), and the [Europen Centre for Diease Control and Prevention](http://ecdc.europa.eu).
+
+It aims to collate and meaningfully combine short-term forecasts of Covid-19 from across Europe (EU and EFTA countries and the UK) in order to improve situational awareness and quantify the current trajectory of Covid-19 everywhere whilst acknowledging uncertainty. It follows similar projects in the [US](https://covid19forecasthub.org/) and in [Germany and Poland](https://kitmetricslab.github.io/forecasthub/forecast).
+
+For more information on technical details and contributors, visit the [project pages on github](https://github.com/epiforecasts/covid19-forecast-hub-europe).
