@@ -27,7 +27,7 @@
 
 [[main]]
   name = "Data"
-  url = "https://github.com/epiforecasts/covid19-forecast-hub-europe"
+  url = "https://github.com/epiforecasts/covid19-forecast-hub-europe/tree/main/data-processed"
   weight = 30
   parent = "Forecasts"
 
