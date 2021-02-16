@@ -6,7 +6,6 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "The European Covid-19 Forecast Hub"
 subtitle: ""
 hero_media: welcome.png
 design:
@@ -15,6 +14,11 @@ design:
 advanced:
   css_style:
   css_class:
+cta:
+  url: 'visualisation'
+  label: View forecasts
+  icon_pack: fas
+  icon: chart-line
 ---
 
 Short-term forecast of Covid-19 cases and deaths across Europe, created by a multitude of infectious disease modelling teams, coordinated by the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en).
