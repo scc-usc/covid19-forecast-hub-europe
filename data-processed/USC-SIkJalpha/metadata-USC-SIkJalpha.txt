@@ -1,15 +1,14 @@
-team_name: University of Southern California Data Science Lab
+team_name: University of Southern California
 model_name: SIkJalpha
 model_abbr: USC-SIkJalpha
-model_contributors: Ajitesh Srivastava <ajiteshs@usc.edu>, Viktor K. Prasanna <prasanna@usc.edu>,
-  Frost Tianjian Xu
+model_contributors: Ajitesh Srivastava <ajiteshs@usc.edu>,  Frost Tianjian Xu
 website_url: https://scc-usc.github.io/ReCOVER-COVID-19
 license: mit
 team_model_designation: primary
 methods: A heterogeneous infection rate model with human mobility for epidemic modeling.
   Our model adapts to changing trends and provide predictions of confirmed cases and
   deaths.
-team_funding: Supported by US National Science Foundation Award No. 2027007 (RAPID)
+team_funding: Supported by US National Science Foundation Award No. 2027007 (RAPID) [May 2020 - April 2021]
 repo_url: https://github.com/scc-usc/ReCOVER-COVID-19
 data_inputs: JHU
 citation: https://arxiv.org/abs/2007.05180
